@@ -1,4 +1,5 @@
 # ![powercli](https://user-images.githubusercontent.com/6964549/49510073-dc030f80-f88f-11e8-9f9a-e1f0415c7ad2.png)VMware VI Automation Module
+# I am using remote repository, there is no local storage of the codes
 
 <ins>Requirements:</ins> PowerShell 5 or above. To check, type the following command: `$PSVersionTable.PSVersion.Major`.
 
