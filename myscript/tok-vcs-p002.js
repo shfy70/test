@@ -16,7 +16,6 @@ URL
 
 HTMLOptionsCollection
 
-Latest change
+HTMLAnchorElement
 
-
-Latest change 2
+HTMLBodyElement
