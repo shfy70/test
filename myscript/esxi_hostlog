@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T23:50:21.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jxvon9FlqXhQcMiWiMhB" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T23:53:44.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vZ_mEbRrpG6AkCn4HSOs" version="20.5.1" type="github">
   <diagram id="r31nHlyol3ozWIujs734" name="Page-1">
     <mxGraphModel dx="1641" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,9 +230,6 @@
         <mxCell id="2YUj2aIOq5NgfkancFG2-96" value="&lt;b&gt;all false&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="260" y="720" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2YUj2aIOq5NgfkancFG2-98" value="&lt;b&gt;yes&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="470" y="860" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2YUj2aIOq5NgfkancFG2-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#CC0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="205" y="830" as="sourcePoint" />
@@ -241,6 +238,18 @@
         </mxCell>
         <mxCell id="2YUj2aIOq5NgfkancFG2-101" value="&lt;b&gt;if any is true&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="270" y="790" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YUj2aIOq5NgfkancFG2-102" value="Email esxi list" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="570" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2YUj2aIOq5NgfkancFG2-103" value="&lt;b&gt;No issue found.......&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="2YUj2aIOq5NgfkancFG2-102">
+          <mxGeometry y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YUj2aIOq5NgfkancFG2-108" value="Email esxi list" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="800" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2YUj2aIOq5NgfkancFG2-109" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;ESXi host logging not in confirmity&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="2YUj2aIOq5NgfkancFG2-108">
+          <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
