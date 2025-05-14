@@ -1,6 +1,4 @@
-Fuck Trump all
-
-NSA CIA and whateve
+Fuck Trump and associates!
 
 
 # ![powercli](https://user-images.githubusercontent.com/6964549/49510073-dc030f80-f88f-11e8-9f9a-e1f0415c7ad2.png)VMware VI Automation Module
