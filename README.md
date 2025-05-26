@@ -7,4 +7,4 @@ deleted everything!!!!
 
 Now add at github portal on main branch!
 
-Guozigou!
+"fetch and merge" equivalent to "pull command"
