@@ -11,3 +11,6 @@ This is edited on home computer in norman branch, now try to push to
 github portal
 
 Now edit on laptop for norman branch, push to github, then from github merge from branch to main!
+
+
+EDIT pn github directly on main branch!
