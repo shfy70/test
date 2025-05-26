@@ -10,3 +10,5 @@ Now add at github portal on main branch!
 "fetch and merge" equivalent to "pull command"
 
 edited on github portal in norman branch!
+
+rebase?
