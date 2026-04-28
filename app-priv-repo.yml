@@ -11,7 +11,7 @@ spec:
   source: 
     path: guestbook
     repoURL: "git@github.com:shfy70/test.git"
-    targetRevision: master
+    targetRevision: main
   syncPolicy:
     syncOptions:
       - CreateNamespace=true
