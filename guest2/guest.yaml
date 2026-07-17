@@ -5,9 +5,9 @@ metadata:
   namespace: argocd
 spec: 
   destination: 
-    namespace: guestbook-civo
-    server: "https://212.2.243.159:6443"
-  project: default
+    #namespace: guestbook-civo
+    #server: "https://212.2.243.159:6443"
+  #project: default
   source: 
     path: guest2
     repoURL: "git@github.com:shfy70/test.git"
