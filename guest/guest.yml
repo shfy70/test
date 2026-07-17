@@ -9,7 +9,7 @@ spec:
     server: "https://kubernetes.default.svc"
   project: default
   source: 
-    path: guestbook
+    path: guest
     repoURL: "git@github.com:shfy70/test.git"
     targetRevision: main
   syncPolicy:
