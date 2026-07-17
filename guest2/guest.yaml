@@ -2,7 +2,7 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata: 
   name: guestbook-civo
-  namespace: argocd
+  #namespace: argocd
 spec: 
   destination: 
     #namespace: guestbook-civo
