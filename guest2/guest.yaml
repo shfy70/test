@@ -5,8 +5,8 @@ metadata:
   namespace: argocd
 spec: 
   destination: 
-    #namespace: guestbook-civo
-    #server: "https://212.2.243.159:6443"
+    namespace: partner-guestbook
+    server: "https://212.2.243.159:6443"
   #project: default
   source: 
     path: guest2
